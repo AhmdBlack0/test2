@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "semester": "semester-1",
+      "course": "OS",
+      "lectures": [
+        {
+          "id": 1,
+          "title": "History",
+          "file": "/data/os/lectures/lecture1 (History).pdf"
+        },
+        {
+          "id": 2,
+          "title": "Introduction",
+          "file": "/data/os/lectures/lecture2 (Introduction).pdf"
+        },
+        {
+          "id": 3,
+          "title": "Concepts and Structure",
+          "file": "/data/os/lectures/lecture3 (Concepts and Structure).pdf"
+        },
+        {
+          "id": 4,
+          "title": "Processes",
+          "file": "/data/os/lectures/lecture4 (Processes).pdf"
+        },
+        {
+          "id": 5,
+          "title": "Threads",
+          "file": "/data/os/lectures/lecture5 (Threads).pdf"
+        },
+        {
+          "id": 6,
+          "title": "CPU Scheduling",
+          "file": "/data/os/lectures/lecture6 (CPU Scheduling).pdf"
+        }
+      ],
+      "sections": [
+        {
+          "id": 1,
+          "title": "All Sections",
+          "file": "/data/os/sections/All.pdf"
+        }, 
+        {}
+      ]
+    },
+    {
+      "id": 2,
+      "semester": "semester-1",
+      "course": "Web Programming",
+      "lectures": []
+    },
+    {
+      "id": 3,
+      "semester": "semester-1",
+      "course": "ODE",
+      "lectures": []
+    },
+    {
+      "id": 4,
+      "semester": "semester-1",
+      "course": "Networks 2",
+      "lectures": []
+    },
+    {
+      "id": 5,
+      "semester": "semester-1",
+      "course": "Algorithms",
+      "lectures": []
+    },
+    {
+      "id": 6,
+      "semester": "semester-1",
+      "course": "Abstract Algebra",
+      "lectures": []
+    }
+  ]
+
